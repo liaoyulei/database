@@ -1,2 +1,2 @@
 # database
-Project for dababase
+Project for dababase like vruc and unicourse.
